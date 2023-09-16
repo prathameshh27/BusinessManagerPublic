@@ -73,8 +73,8 @@ Users can perform actions on quotations, such as editing, deleting, or generatin
   
 **Quotation PDF:**  
 The application supports generating PDFs of quotations for easy sharing and printing.  
-View the pdf here: ![PDF](https://github.com/prathameshh27/BusinessManagerPublic/blob/main/resources/Q00000004%20-%20Hammer%20Industries%20-%202023-09-16.pdf)  
-View the API Resp here: ![JSON](https://github.com/prathameshh27/BusinessManagerPublic/blob/main/resources/Q00000004%20-%20Hammer%20Industries%20-%202023-09-16.json)  
+View the pdf here: [PDF](https://github.com/prathameshh27/BusinessManagerPublic/blob/main/resources/Q00000004%20-%20Hammer%20Industries%20-%202023-09-16.pdf)  
+View the API Resp here: [JSON](https://github.com/prathameshh27/BusinessManagerPublic/blob/main/resources/Q00000004%20-%20Hammer%20Industries%20-%202023-09-16.json)  
   
 ![Webview - Quotation PDF](https://github.com/prathameshh27/BusinessManagerPublic/blob/main/BusinessManagerWebViews/Webview%202023-09-16%20224325.png)
 
