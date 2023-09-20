@@ -7,7 +7,7 @@ Business Manager is a web application built using Django that allows users to cr
 ## Features
 
 - User authentication and secure login.
-- Create, view, edit, and delete quotations.
+- Create, view, and copy quotations.
 - Generate PDFs of quotations.
 - Manage customers and associate them with quotations.
 - API support for integration with other systems.
@@ -24,7 +24,7 @@ This is the login page where users can securely log in to their accounts.
 
   
 ### Home Page:  
-The home page provides an overview and quick access to various features of the Business Manager application.  
+The home page is under construction. On completion, it should provide an overview and quick access to various features of the Business Manager application.  
   
 ![Webview - Home Page](https://github.com/prathameshh27/BusinessManagerPublic/blob/main/BusinessManagerWebViews/Webview%202023-09-13%20125450.png)
 
@@ -66,7 +66,7 @@ This section shows the various statuses that a quotation can have, helping users
 
   
 ### Quotation Actions:  
-Users can perform actions on quotations, such as editing, deleting, or generating PDFs.  
+Users can perform actions on quotations, such as printing, creating duplicate quotation, viewing API Response, or generating PDFs.  
   
 ![Webview - Quotation Actions](https://github.com/prathameshh27/BusinessManagerPublic/blob/main/BusinessManagerWebViews/Webview%202023-09-16%20223853.png)
 
